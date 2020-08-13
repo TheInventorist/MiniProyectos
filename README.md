@@ -1,2 +1,2 @@
 # MiniProyectos
-Colección de mini proyectos para compartir con todos
+Colección de mis pequeños proyectos flash para cubrir necesidades que requerian un poco de ingenieria, que los disfruten.
