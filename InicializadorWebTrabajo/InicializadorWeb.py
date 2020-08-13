@@ -1,0 +1,16 @@
+import webbrowser
+print("|-----------------------------------------|")
+print("| Comenzando proceso rutinario de trabajo |")
+print("|-----------------------------------------|")
+
+webbrowser.open('https://web.whatsapp.com/')
+webbrowser.open('https://todoist.com/app/#start')
+webbrowser.open('https://mail.google.com/')
+webbrowser.open('https://calendar.google.com/')
+webbrowser.open('https://outlook.live.com/')
+webbrowser.open('https://outlook.office.com/mail/inbox')
+webbrowser.open('https://github.com/')
+webbrowser.open('https://twitter.com/home')
+webbrowser.open('https://www.linkedin.com/feed/')
+webbrowser.open('https://www.youtube.com/')
+webbrowser.open('https://www.overleaf.com/')
